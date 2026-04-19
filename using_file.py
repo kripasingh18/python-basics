@@ -1,0 +1,7 @@
+file=open("input.txt","r")
+#content=file.read()
+#print(content)
+file.close()
+#file=open("output.txt","w")
+#file.write("hello, world !")
+#file.close()
